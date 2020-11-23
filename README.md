@@ -15,3 +15,4 @@ Else you can simply type if you want to run it alone
 ```{shell}
 python MainLuigi.py --local-scheduler StepMain
 ```
+When the script is done you just have to open the main.html file to see the topics found for each newsgroup
